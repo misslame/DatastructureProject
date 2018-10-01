@@ -1,2 +1,2 @@
-# DatastructureProject
-Project created in CS1D Datastructures course at Saddleback Community College
+# JerrysAllStars
+Teamwork makes the dream work. CS1D Project 2
