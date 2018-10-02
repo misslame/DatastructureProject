@@ -12,16 +12,16 @@ Name of project: JerrysAllStars
 Screenshots: 
 
 Main Menu 
-![alt text](https://github.com/misslame/DataStructureProject/JerrysAllstars/assets/Screenshots/mainMenu.png "Jerrys Allstars Main Menu")
+![Main](https://github.com/misslame/DatastructureProject/blob/master/Screenshots/mainMenu.png "Jerrys Allstars Main Menu")
 
 Dijikstras Example
-![alt text](https://github.com/misslame/DataStructureProject/JerrysAllstars/assets/Screenshots/dijikstrasExample.png "Jerrys Allstars")
+![Dijikstras](https://github.com/misslame/DatastructureProject/blob/master/Screenshots/dijikstrasExample.png "Jerrys Allstars")
 
-Admin Login Menu
-![alt text](https://github.com/misslame/DataStructureProject/JerrysAllstars/assets/Screenshots/adminLogin.png "Jerrys Allstars Admin Login Menu")
+Admin Menu
+![Admin](https://github.com/misslame/DatastructureProject/blob/master/Screenshots/adminLogin.png "Jerrys Allstars Admin Login Menu")
 
 Stadium Managment
-![alt text](https://github.com/misslame/DataStructureProject/JerrysAllstars/assets/Screenshots/stadiumManagment.png "Jerrys Allstars  Management Menu")
+![Stadium](https://github.com/misslame/DatastructureProject/blob/master/Screenshots/stadiumManagement.PNG "Jerrys Allstars Management Menu")
 
 
 All "Jerry'sAllStars" logos inspired by the major league baseball logo and created by Kathryn Cox. 
