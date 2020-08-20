@@ -2,12 +2,12 @@ Name of project: JerrysAllStars
 ====================================
 ##### Description of project: 
   Create a project for Jerry that helps him be an ultimate baseball fan.
-  The prgram will use algorithms such as prims to find the MST and Dijkstras to find the shortest distance. 
-  Jerry wants to be able to make custom trips to visit all the baseball stadiums. 
-  The program will then "mock" buying souvenirs at each of the stadiums. 
-  Jerry has the ability to add stadiums and also add souvenirs as an admin. 
+
+  THis application simulates finding the best option for visiting all the baseball stadiums in the U.S. while also being able to purchase all the fan favorite souvenirs. 
   
-  Utilizes CSS for customizing ui, SQL for database information, C++ for back end datastructures and algorithms, and QT for ui design. 
+  Utilizes CSS for customizing ui, SQLite for database information, C++ for back end datastructures and algorithms, and QT for ui design. 
+  Database: singleton designed class for sql queries. 
+  Popular algorithms included: Dijkstras, MST Prims. 
 
 Screenshots: 
 
